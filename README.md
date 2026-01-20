@@ -69,11 +69,11 @@ architechture-warmhouse/
 
 ## 🔹 Диаграммы и артефакты
 
-- **ER-диаграмма:** ![ER Diagram](diagrams/ER_Diagram.png)  
-- **C4 Контекст:** ![Context](diagrams/C4_Context.png)  
-- **C4 Контейнеры:** ![Containers](diagrams/C4_Containers.png)  
-- **C4 Компоненты:** ![Components](diagrams/C4_Components.png)  
-- **C4 Код:** ![Code](diagrams/C4_Code.png)
+- **ER-диаграмма:** ![ER Diagram](schemas/diagramER.puml)  
+- **C4 Контекст:** ![Context](schemas/diagramOfContext.puml)  
+- **C4 Контейнеры:** ![Containers](schemas/diagramOfContainers.puml)  
+- **C4 Компоненты:** ![Components](schemas/components)  
+- **C4 Код:** ![Code](schemas/diagramCode.puml)
 
 > Все диаграммы показывают реализацию To-Be системы с микросервисами и взаимодействиями.
 
