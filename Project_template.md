@@ -115,4 +115,3 @@
 - [Rest](/apps/smart_home/services/video-service/openapi/video-api.yaml)
 - [Async](/apps/smart_home/services/video-service/asyncapi/video-events.yaml)
 
-#   ❌ Задание 5. Работа с docker и docker-compose
